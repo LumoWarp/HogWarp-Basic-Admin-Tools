@@ -22,12 +22,12 @@
   <p align="center">
     HogWarp Basic Administration Tools for Server
     <br />
-    <a href="https://github.com/LumoWarp/hogs"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/LumoWarp/HogWarp-Basic-Admin-Tools"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/LumoWarp/hogs">View Demo (Coming Soon)</a>
+    <a href="https://github.com/LumoWarp/HogWarp-Basic-Admin-Tools">View Demo (Coming Soon)</a>
     ·
-    <a href="https://github.com/LumoWarp/hogs/issues">Report Bug</a>
+    <a href="https://github.com/LumoWarp/HogWarp-Basic-Admin-Tools/issues">Report Bug</a>
   </p>
 </div>
 
