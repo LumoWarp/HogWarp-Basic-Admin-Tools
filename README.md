@@ -167,15 +167,15 @@ Beta Tester Application: [Coming Soon](https://discord.com/invite/6z7s9tK4)
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/LumoWarp/HogWarp-Basic-Admin-Tools.svg?style=for-the-badge
-[contributors-url]: https://github.com/LumoWarp/hogs/graphs/contributors
+[contributors-url]: https://github.com/LumoWarp/HogWarp-Basic-Admin-Tools/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/LumoWarp/HogWarp-Basic-Admin-Tools.svg?style=for-the-badge
-[forks-url]: https://github.com/LumoWarp/hogs/network/members
+[forks-url]: https://github.com/LumoWarp/HogWarp-Basic-Admin-Tools/network/members
 [stars-shield]: https://img.shields.io/github/stars/LumoWarp/HogWarp-Basic-Admin-Tools.svg?style=for-the-badge
-[stars-url]: https://github.com/LumoWarp/hogs/stargazers
+[stars-url]: https://github.com/LumoWarp/HogWarp-Basic-Admin-Tools/stargazers
 [issues-shield]: https://img.shields.io/github/issues/LumoWarp/HogWarp-Basic-Admin-Tools.svg?style=for-the-badge
-[issues-url]: https://github.com/LumoWarp/hogs/issues
+[issues-url]: https://github.com/LumoWarp/HogWarp-Basic-Admin-Tools/issues
 [license-shield]: https://img.shields.io/github/license/LumoWarp/HogWarp-Basic-Admin-Tools.svg?style=for-the-badge
-[license-url]: https://github.com/LumoWarp/hogs/blob/master/LICENSE.txt
+[license-url]: https://github.com/LumoWarp/HogWarp-Basic-Admin-Tools/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
