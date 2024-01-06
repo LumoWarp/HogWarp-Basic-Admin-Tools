@@ -154,13 +154,13 @@ Head Dev - Teixi
 
 Project Link: [HogWarp Administration Tools](https://github.com/LumoWarp/HogWarp-Basic-Admin-Tools)
 <br>
-Discord Link: [Discord](https://discord.com/invite/6z7s9tK4)
+Discord Link: [Discord](https://discord.gg/Ft8s8PujxS)
 <br>
-Feature List: [Coming Soon](https://discord.com/invite/6z7s9tK4)
+Feature List: [Coming Soon](https://discord.gg/Ft8s8PujxS)
 <br>
 Dev Application: [Coming Soon](https://discord.com/invite/6z7s9tK4)
 <br>
-Beta Tester Application: [Coming Soon](https://discord.com/invite/6z7s9tK4)
+Beta Tester Application: [Coming Soon](https://discord.gg/Ft8s8PujxS)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
